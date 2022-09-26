@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/desafio-lt-natural-pic/static/css/main.37579871.chunk.css",
+    "main.js": "/desafio-lt-natural-pic/static/js/main.5eeed286.chunk.js",
+    "main.js.map": "/desafio-lt-natural-pic/static/js/main.5eeed286.chunk.js.map",
+    "runtime-main.js": "/desafio-lt-natural-pic/static/js/runtime-main.a1e03c13.js",
+    "runtime-main.js.map": "/desafio-lt-natural-pic/static/js/runtime-main.a1e03c13.js.map",
+    "static/js/2.2d88ff54.chunk.js": "/desafio-lt-natural-pic/static/js/2.2d88ff54.chunk.js",
+    "static/js/2.2d88ff54.chunk.js.map": "/desafio-lt-natural-pic/static/js/2.2d88ff54.chunk.js.map",
+    "index.html": "/desafio-lt-natural-pic/index.html",
+    "static/css/main.37579871.chunk.css.map": "/desafio-lt-natural-pic/static/css/main.37579871.chunk.css.map",
+    "static/js/2.2d88ff54.chunk.js.LICENSE.txt": "/desafio-lt-natural-pic/static/js/2.2d88ff54.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1e03c13.js",
+    "static/js/2.2d88ff54.chunk.js",
+    "static/css/main.37579871.chunk.css",
+    "static/js/main.5eeed286.chunk.js"
+  ]
+}
